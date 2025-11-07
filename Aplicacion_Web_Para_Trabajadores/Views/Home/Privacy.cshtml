@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "Politicas de privacidad";
+}
+<h1>@ViewData["Title"]</h1>
+
+<div class="container mt-5">
+    <div class="card shadow-lg border-0 rounded-4">
+        <div class="card-header bg-primary text-white text-center py-3 rounded-top-4">
+            <h2 class="mb-0">
+                <i class="bi bi-shield-lock-fill me-2"></i> @ViewData["Title"]
+            </h2>
+        </div>
+
+        <div class="card-body p-5 bg-light">
+            <p class="lead mb-4 text-secondary text-center">
+                Esta página es de uso exclusivo para los administradores de la empresa <strong>MYPER</strong>.
+            </p>
+
+            <hr class="my-4" />
+
+            <section class="mb-4">
+                <h5 class="text-primary">
+                    <i class="bi bi-info-circle-fill me-2"></i> Confidencialidad
+                </h5>
+                <p>
+                    Toda la información contenida en esta aplicación es confidencial y propiedad exclusiva de la empresa <strong>MYPER</strong>.
+                    Queda estrictamente prohibido compartir, distribuir o divulgar los datos sin la autorización expresa del área de administración.
+                </p>
+            </section>
+
+            <section class="mb-4">
+                <h5 class="text-primary">
+                    <i class="bi bi-lock-fill me-2"></i> Protección de Datos
+                </h5>
+                <p>
+                    La empresa <strong>MYPER</strong> cumple con las normas de protección de datos personales y se compromete a salvaguardar la
+                    privacidad de la información de los trabajadores, clientes y colaboradores.
+                </p>
+            </section>
+
+            <section class="mb-4">
+                <h5 class="text-primary">
+                    <i class="bi bi-gear-fill me-2"></i> Uso de la Plataforma
+                </h5>
+                <p>
+                    El acceso a esta aplicación está restringido a personal autorizado. Cualquier intento de uso indebido será registrado y podrá
+                    ser sancionado según las políticas internas de la empresa.
+                </p>
+            </section>
+
+            <div class="text-center mt-5">
+                <a asp-controller="Trabajadors" asp-action="Index" class="btn btn-outline-primary px-4">
+                    <i class="bi bi-arrow-left-circle me-2"></i> Volver al Panel Principal
+                </a>
+            </div>
+        </div>
+
+        <div class="card-footer text-center text-muted small bg-white rounded-bottom-4">
+            <i class="bi bi-shield-check me-2"></i> Última actualización: @DateTime.Now.ToString("dd 'de' MMMM 'de' yyyy")
+        </div>
+    </div>
+</div>

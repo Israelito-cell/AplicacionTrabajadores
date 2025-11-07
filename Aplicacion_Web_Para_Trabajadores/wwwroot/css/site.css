@@ -1,0 +1,29 @@
+/* ====== Estilos base del proyecto ====== */
+main {
+    background-color: #f5f6fa;
+}
+
+.bg-white {
+    background-color: #ffffff !important;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+}
+
+.table {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+    .table thead {
+        background-color: #e8f0fe;
+    }
+
+.card, .bg-white {
+    transition: all 0.2s ease-in-out;
+}
+
+    .card:hover, .bg-white:hover {
+        transform: scale(1.01);
+    }

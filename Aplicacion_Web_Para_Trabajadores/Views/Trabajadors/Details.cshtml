@@ -1,0 +1,94 @@
+﻿@model Aplicacion_Web_Para_Trabajadores.Models.Trabajador
+
+@{
+    ViewData["Title"] = "Detalles del trabajador";
+}
+
+<h1>Detalles del Trabajador</h1>
+
+<div class="container mt-5">
+    <div class="card shadow-lg border-0 rounded-4">
+        <div class="card-header bg-primary text-white text-center">
+            <h3 class="mb-0">Detalles del Trabajador</h3>
+        </div>
+
+        <div class="card-body">
+            <div class="row">
+                
+                <div class="col-md-4 text-center mb-3">
+                    @if (Model.Foto != null && Model.Foto.Length > 0)
+                    {
+                        <img src="data:image/jpeg;base64,@Convert.ToBase64String(Model.Foto)"
+                             class="img-fluid rounded shadow-sm border"
+                             alt="Foto del trabajador"
+                             style="max-width: 250px; height: auto;" />
+                    }
+                    else
+                    {
+                        <img src="https://cdn-icons-png.flaticon.com/512/847/847969.png"
+                             class="img-fluid rounded shadow-sm border"
+                             alt="Sin foto"
+                             style="max-width: 250px; height: auto;" />
+                        <p class="text-muted mt-2">Sin foto disponible</p>
+                    }
+                </div>
+
+                <div class="col-md-8">
+                    <div class="p-3 bg-white rounded shadow-sm">
+                        <h5 class="mb-4 text-primary fw-bold border-bottom pb-2">Información del Trabajador</h5>
+
+                        <div class="row mb-2">
+                            <div class="col-sm-5 text-end fw-semibold text-secondary">Nombres:</div>
+                            <div class="col-sm-7">@Model.Nombres</div>
+                        </div>
+
+                        <div class="row mb-2">
+                            <div class="col-sm-5 text-end fw-semibold text-secondary">Apellidos:</div>
+                            <div class="col-sm-7">@Model.Apellidos</div>
+                        </div>
+
+                        <div class="row mb-2">
+                            <div class="col-sm-5 text-end fw-semibold text-secondary">Tipo de Documento:</div>
+                            <div class="col-sm-7">@Model.TipoDocumento</div>
+                        </div>
+
+                        <div class="row mb-2">
+                            <div class="col-sm-5 text-end fw-semibold text-secondary">Número de Documento:</div>
+                            <div class="col-sm-7">@Model.NumeroDocumento</div>
+                        </div>
+
+                        <div class="row mb-2">
+                            <div class="col-sm-5 text-end fw-semibold text-secondary">Sexo:</div>
+                            <div class="col-sm-7">@Model.Sexo</div>
+                        </div>
+
+                        <div class="row mb-2">
+                            <div class="col-sm-5 text-end fw-semibold text-secondary">Fecha de Nacimiento:</div>
+                            <div class="col-sm-7">@Model.FechaNacimiento?.ToString("dd/MM/yyyy")</div>
+                        </div>
+
+                        <div class="row mb-2">
+                            <div class="col-sm-5 text-end fw-semibold text-secondary">Dirección:</div>
+                            <div class="col-sm-7">@Model.Direccion</div>
+                        </div>
+
+                        <div class="row mb-2">
+                            <div class="col-sm-5 text-end fw-semibold text-secondary">Fecha de Creación:</div>
+                            <div class="col-sm-7">@Model.FechaCreacion?.ToString("dd/MM/yyyy")</div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="card-footer text-center">
+            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning me-2">
+                ✏️ Editar
+            </a>
+            <a asp-action="Index" class="btn btn-secondary">
+                ⬅️ Volver al listado
+            </a>
+        </div>
+    </div>
+</div>

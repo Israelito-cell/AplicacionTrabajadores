@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|c:\\users\\israel\\downloads\\aplicacion_web_para_trabajadores\\aplicacion_web_para_trabajadores\\controllers\\trabajadorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|solutionrelative:aplicacion_web_para_trabajadores\\controllers\\trabajadorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|c:\\users\\israel\\downloads\\aplicacion_web_para_trabajadores\\aplicacion_web_para_trabajadores\\views\\trabajadors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|solutionrelative:aplicacion_web_para_trabajadores\\views\\trabajadors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|c:\\users\\israel\\downloads\\aplicacion_web_para_trabajadores\\aplicacion_web_para_trabajadores\\models\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|solutionrelative:aplicacion_web_para_trabajadores\\models\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|c:\\users\\israel\\downloads\\aplicacion_web_para_trabajadores\\aplicacion_web_para_trabajadores\\views\\trabajadors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|solutionrelative:aplicacion_web_para_trabajadores\\views\\trabajadors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|c:\\users\\israel\\downloads\\aplicacion_web_para_trabajadores\\aplicacion_web_para_trabajadores\\aplicacion_web_para_trabajadores.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|solutionrelative:aplicacion_web_para_trabajadores\\aplicacion_web_para_trabajadores.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|c:\\users\\israel\\downloads\\aplicacion_web_para_trabajadores\\aplicacion_web_para_trabajadores\\views\\trabajadors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|solutionrelative:aplicacion_web_para_trabajadores\\views\\trabajadors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|c:\\users\\israel\\downloads\\aplicacion_web_para_trabajadores\\aplicacion_web_para_trabajadores\\views\\trabajadors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|solutionrelative:aplicacion_web_para_trabajadores\\views\\trabajadors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|c:\\users\\israel\\downloads\\aplicacion_web_para_trabajadores\\aplicacion_web_para_trabajadores\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|solutionrelative:aplicacion_web_para_trabajadores\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|c:\\users\\israel\\downloads\\aplicacion_web_para_trabajadores\\aplicacion_web_para_trabajadores\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|solutionrelative:aplicacion_web_para_trabajadores\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|c:\\users\\israel\\downloads\\aplicacion_web_para_trabajadores\\aplicacion_web_para_trabajadores\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|solutionrelative:aplicacion_web_para_trabajadores\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|c:\\users\\israel\\downloads\\aplicacion_web_para_trabajadores\\aplicacion_web_para_trabajadores\\views\\trabajadors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|solutionrelative:aplicacion_web_para_trabajadores\\views\\trabajadors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|c:\\users\\israel\\downloads\\aplicacion_web_para_trabajadores\\aplicacion_web_para_trabajadores\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|solutionrelative:aplicacion_web_para_trabajadores\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|c:\\users\\israel\\downloads\\aplicacion_web_para_trabajadores\\aplicacion_web_para_trabajadores\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|solutionrelative:aplicacion_web_para_trabajadores\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|c:\\users\\israel\\downloads\\aplicacion_web_para_trabajadores\\aplicacion_web_para_trabajadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|solutionrelative:aplicacion_web_para_trabajadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|c:\\users\\israel\\downloads\\aplicacion_web_para_trabajadores\\aplicacion_web_para_trabajadores\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|solutionrelative:aplicacion_web_para_trabajadores\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|c:\\users\\israel\\downloads\\aplicacion_web_para_trabajadores\\aplicacion_web_para_trabajadores\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|solutionrelative:aplicacion_web_para_trabajadores\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|c:\\users\\israel\\downloads\\aplicacion_web_para_trabajadores\\aplicacion_web_para_trabajadores\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|solutionrelative:aplicacion_web_para_trabajadores\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|c:\\users\\israel\\downloads\\aplicacion_web_para_trabajadores\\aplicacion_web_para_trabajadores\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|solutionrelative:aplicacion_web_para_trabajadores\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|c:\\users\\israel\\downloads\\aplicacion_web_para_trabajadores\\aplicacion_web_para_trabajadores\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|solutionrelative:aplicacion_web_para_trabajadores\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|c:\\users\\israel\\downloads\\aplicacion_web_para_trabajadores\\aplicacion_web_para_trabajadores\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C7DF828-5661-4B41-AFED-A9FC360C1C8B}|Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj|solutionrelative:aplicacion_web_para_trabajadores\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 392,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Views\\Trabajadors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Aplicacion_Web_Para_Trabajadores\\Views\\Trabajadors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Views\\Trabajadors\\Edit.cshtml",
+              "RelativeToolTip": "Aplicacion_Web_Para_Trabajadores\\Views\\Trabajadors\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T05:59:32.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Views\\Trabajadors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Aplicacion_Web_Para_Trabajadores\\Views\\Trabajadors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Views\\Trabajadors\\Delete.cshtml",
+              "RelativeToolTip": "Aplicacion_Web_Para_Trabajadores\\Views\\Trabajadors\\Delete.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T05:58:43.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trabajador.cs",
+              "DocumentMoniker": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Models\\Trabajador.cs",
+              "RelativeDocumentMoniker": "Aplicacion_Web_Para_Trabajadores\\Models\\Trabajador.cs",
+              "ToolTip": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Models\\Trabajador.cs",
+              "RelativeToolTip": "Aplicacion_Web_Para_Trabajadores\\Models\\Trabajador.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T06:27:59.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrabajadorsController.cs",
+              "DocumentMoniker": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Controllers\\TrabajadorsController.cs",
+              "RelativeDocumentMoniker": "Aplicacion_Web_Para_Trabajadores\\Controllers\\TrabajadorsController.cs",
+              "ToolTip": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Controllers\\TrabajadorsController.cs",
+              "RelativeToolTip": "Aplicacion_Web_Para_Trabajadores\\Controllers\\TrabajadorsController.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAAALoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T07:33:17.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Views\\Trabajadors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Aplicacion_Web_Para_Trabajadores\\Views\\Trabajadors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Views\\Trabajadors\\Create.cshtml",
+              "RelativeToolTip": "Aplicacion_Web_Para_Trabajadores\\Views\\Trabajadors\\Create.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T23:26:58.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aplicacion_Web_Para_Trabajadores",
+              "DocumentMoniker": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj",
+              "RelativeDocumentMoniker": "Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj",
+              "ToolTip": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj",
+              "RelativeToolTip": "Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T00:28:39.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Views\\Trabajadors\\Details.cshtml",
+              "RelativeDocumentMoniker": "Aplicacion_Web_Para_Trabajadores\\Views\\Trabajadors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Views\\Trabajadors\\Details.cshtml",
+              "RelativeToolTip": "Aplicacion_Web_Para_Trabajadores\\Views\\Trabajadors\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T05:57:36.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Aplicacion_Web_Para_Trabajadores\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Aplicacion_Web_Para_Trabajadores\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T22:05:33.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Aplicacion_Web_Para_Trabajadores\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Aplicacion_Web_Para_Trabajadores\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T23:42:21.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Aplicacion_Web_Para_Trabajadores\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Aplicacion_Web_Para_Trabajadores\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T23:42:19.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Views\\Trabajadors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Aplicacion_Web_Para_Trabajadores\\Views\\Trabajadors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Views\\Trabajadors\\Index.cshtml",
+              "RelativeToolTip": "Aplicacion_Web_Para_Trabajadores\\Views\\Trabajadors\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T05:59:56.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Aplicacion_Web_Para_Trabajadores\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Aplicacion_Web_Para_Trabajadores\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T23:42:13.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Aplicacion_Web_Para_Trabajadores\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Aplicacion_Web_Para_Trabajadores\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-06T06:16:12.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Program.cs",
+              "RelativeDocumentMoniker": "Aplicacion_Web_Para_Trabajadores\\Program.cs",
+              "ToolTip": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Program.cs",
+              "RelativeToolTip": "Aplicacion_Web_Para_Trabajadores\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T06:51:43.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\appsettings.json",
+              "RelativeDocumentMoniker": "Aplicacion_Web_Para_Trabajadores\\appsettings.json",
+              "ToolTip": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\appsettings.json",
+              "RelativeToolTip": "Aplicacion_Web_Para_Trabajadores\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-06T20:38:39.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Aplicacion_Web_Para_Trabajadores\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Aplicacion_Web_Para_Trabajadores\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-06T06:30:14.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "Aplicacion_Web_Para_Trabajadores\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+              "RelativeToolTip": "Aplicacion_Web_Para_Trabajadores\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-06T18:55:00.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Aplicacion_Web_Para_Trabajadores\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Aplicacion_Web_Para_Trabajadores\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-06T05:55:27.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Aplicacion_Web_Para_Trabajadores\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Aplicacion_Web_Para_Trabajadores\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T07:07:59.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Aplicacion_Web_Para_Trabajadores\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ISRAEL\\Downloads\\Aplicacion_Web_Para_Trabajadores\\Aplicacion_Web_Para_Trabajadores\\appsettings.Development.json",
+              "RelativeToolTip": "Aplicacion_Web_Para_Trabajadores\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T06:37:00.419Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+﻿@model IEnumerable<Aplicacion_Web_Para_Trabajadores.Models.Trabajador>
+
+@{
+    ViewData["Title"] = "Datos de los Trabajadores";
+}
+
+
+<h1 class ="text-center mb-4 text-primary">Lista de Trabajadores</h1>
+
+
+@if (TempData["Mensaje"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["Mensaje"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<div class="d-flex justify-content-end mb-3">
+    
+    <a asp-action="Create" class="btn btn-success">
+        <i class="bi bi-plus-circle me-1"></i> Nuevo trabajador
+    </a>
+</div>
+
+<table class="table table-striped table-hover align-middle">
+    <thead class="table-light">
+        <tr>
+            <th>Nombres</th>
+            <th>Apellidos</th>
+            <th>Tipo de documento</th>
+            <th>Número de documento</th>
+            <th>Sexo</th>
+            <th>Fecha de nacimiento</th>
+            <th>Foto</th>
+            <th>Dirección</th>
+            <th style="width:160px">Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@(string.IsNullOrWhiteSpace(item.Nombres) ? "-" : item.Nombres)</td>
+                <td>@(string.IsNullOrWhiteSpace(item.Apellidos) ? "-" : item.Apellidos)</td>
+                <td>@(string.IsNullOrWhiteSpace(item.TipoDocumento) ? "-" : item.TipoDocumento)</td>
+                <td>@(string.IsNullOrWhiteSpace(item.NumeroDocumento) ? "-" : item.NumeroDocumento)</td>
+                <td>@(string.IsNullOrWhiteSpace(item.Sexo) ? "-" : item.Sexo)</td>
+                <td>
+                    @(
+                                    item.FechaNacimiento.HasValue
+                                    ? item.FechaNacimiento.Value.ToString("dd/MM/yyyy")
+                                    : "-"
+                                    )
+            </td>
+            <td>
+                @if (item.Foto != null && item.Foto.Length > 0)
+                    {
+                        <img src="data:image/png;base64,@Convert.ToBase64String(item.Foto)" alt="Foto"
+                             style="height:48px; width:auto; border-radius:4px;" />
+                    }
+
+                    else
+                    {
+                        <span class="text-muted">—</span>
+                    }
+                </td>
+                <td>@(string.IsNullOrWhiteSpace(item.Direccion) ? "-" : item.Direccion)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning me-1" title="Editar">
+                        <i class="bi bi-pencil"></i>
+                    </a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info text-white me-1" title="Detalles">
+                        <i class="bi bi-eye"></i>
+                    </a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger"
+                    onclick="return confirm('¿Está seguro de eliminar el registro?');">
+                        <i class="bi bi-trash"></i> 
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <!-- Si usas validaciones u otros scripts -->
+}
